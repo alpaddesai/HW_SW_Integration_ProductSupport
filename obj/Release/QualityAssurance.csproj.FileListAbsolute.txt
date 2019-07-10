@@ -1,7 +1,6 @@
 C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\bin\Release\QualityAssurance.exe.config
 C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\bin\Release\QualityAssurance.exe
 C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\bin\Release\QualityAssurance.pdb
-C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\obj\Release\QualityAssurance.csprojAssemblyReference.cache
 C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\obj\Release\MainWindow.g.cs
 C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\obj\Release\SixSigma.g.cs
 C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\obj\Release\App.g.cs
