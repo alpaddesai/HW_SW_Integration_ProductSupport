@@ -7,3 +7,6 @@ https://github.com/alpaddesai/QualityAssurance/releases. Company confidential in
 
 ## DMADV 
 ![image](DMDV.png)
+
+## Introduction to Linux
+![image](IntroductiontoLinux.png)
