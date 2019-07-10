@@ -42,14 +42,15 @@
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
-        <Button x:Name="SixSigma" Content="Six Sigma" HorizontalAlignment="Left" Margin="298,208,0,0" VerticalAlignment="Top" Width="99" Height="28" Click="SixSigma_Click"/>
+        <Button x:Name="SixSigma" Content="Six Sigma" HorizontalAlignment="Left" Margin="105,210,0,0" VerticalAlignment="Top" Width="99" Height="28" Click="SixSigma_Click"/>
         <Image HorizontalAlignment="Left" Height="406" Margin="5,238,0,0" VerticalAlignment="Top" Width="714" Source="QA.jpg"/>
         <Image HorizontalAlignment="Left" Height="332" Margin="731,3,-9,0" VerticalAlignment="Top" Width="405" Source="Image1.png">
             <Image.OpacityMask>
                 <ImageBrush ImageSource="Image1.png"/>
             </Image.OpacityMask>
         </Image>
-        <Image HorizontalAlignment="Left" Height="287" Margin="732,346,0,0" VerticalAlignment="Top" Width="369" Source="Image2.png"/>
+        <Image HorizontalAlignment="Left" Height="262" Margin="749,344,0,0" VerticalAlignment="Top" Width="336" Source="Image2.png"/>
+        <Button x:Name="Testing" Content="Virtual Machines" HorizontalAlignment="Left" Margin="864,617,0,0" VerticalAlignment="Top" Width="115" Click="Testing_Click"/>
 
     </Grid>
 </Window>

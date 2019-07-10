@@ -14,3 +14,6 @@ C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\obj\Debug\QualityAss
 C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\obj\Debug\QualityAssurance.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\obj\Debug\QualityAssurance.exe
 C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\obj\Debug\QualityAssurance.pdb
+C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\obj\Debug\QualityAssurance.csprojAssemblyReference.cache
+C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\obj\Debug\IntroductionToLinux.g.cs
+C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\obj\Debug\IntroductionToLinux.baml

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\obj\Debug\
+C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\obj\Release\
 QualityAssurance
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\ADG\source\repos\QualityAssurance\QualityAssurance\App.xaml
 31550416498
 
-7-1460271666
+82066204579
 13-1505183044
 IntroductionToLinux.xaml;MainWindow.xaml;SixSigma.xaml;
 
-False
+True
 

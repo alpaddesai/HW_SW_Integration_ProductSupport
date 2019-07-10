@@ -1,0 +1,45 @@
+﻿<Window x:Class="QualityAssurance.IntroductionToLinux"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QualityAssurance"
+        mc:Ignorable="d"
+        Title="IntroductionToLinux" Height="347.232" Width="575.779" MaxWidth="576" MaxHeight="347">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0"/>
+                <GradientStop Color="{DynamicResource {x:Static SystemColors.ActiveCaptionColorKey}}" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="189*"/>
+            <RowDefinition Height="230*"/>
+        </Grid.RowDefinitions>
+        <RichTextBox HorizontalAlignment="Left" Height="262" Margin="23,17,0,0" VerticalAlignment="Top" Width="528" Grid.RowSpan="2">
+            <FlowDocument>
+                <Paragraph>
+                    <Run FontWeight="Bold" Text="                                    Overview of a Linux System, Virtualization and Imaging"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run FontWeight="Bold" Text="Linux "/>
+                    <Run Text=" "/>
+                    <Run Text="implements the essential inner core of an OS which is referred to as the kernel, since it is not a full working OS, it needs to be bundled with other programs which is then referred to as a distribution. Linux distribution families are Red Hat and Debian based Linux distributions.  "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="Virtualization: "/>
+                    <Run Text=" "/>
+                    <Run Text="is a technology where a different operating system is executed in parallel to the main operating system (hypervisor)  on the same computer. Modern virtualizations SW allows you to run multiple systems in parallel.  A portable copy of a VM is called an image. Cloning and imaging can be very useful for testing software releases on different versions of a Windows operating system. "/>
+                    <Run Text=" "/>
+                    <Run FontWeight="Bold" Text="Network modes "/>
+                    <Run Text=" "/>
+                    <Run Text="supported by a VM includes NAT (host network adapter), Bridged (has it's own unique MAC address) Host only, specific virtual network (define private and isolated subnet works)"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="Reference: Fundamentals of Linux by Oliver Pelz, 2018"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>

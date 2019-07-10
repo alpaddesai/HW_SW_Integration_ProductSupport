@@ -30,5 +30,11 @@ namespace QualityAssurance
             SixSigma SixSigmaObject = new SixSigma();
             SixSigmaObject.Show();
         }
+
+        private void Testing_Click(object sender, RoutedEventArgs e)
+        {
+            IntroductionToLinux IntroductionToLinuxObject = new IntroductionToLinux();
+            IntroductionToLinuxObject.Show();
+        }
     }
 }
