@@ -10,3 +10,6 @@ https://github.com/alpaddesai/QualityAssurance/releases. Company confidential in
 
 ## Introduction to Linux
 ![image](IntroductiontoLinux.png)
+
+## minitab essentials
+![image](MinitabEssentials.jpg)
