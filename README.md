@@ -16,6 +16,4 @@ https://github.com/alpaddesai/QualityAssurance/releases. Company confidential in
 ## Minitab Essentials
 ![image](MinitabEssentials.jpg)
 
-![image](USCopyrightCertificateofRegistration.png)
-
 Additional reference : https://github.com/alpaddesai/NewProductDevelopmentProcesses
