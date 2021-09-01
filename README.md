@@ -19,4 +19,4 @@ https://github.com/alpaddesai/QualityAssurance/releases. Company confidential in
 ## Certificat of Registration 
 ![image](USCopyrightCertificate.png)
 
-Additional reference : https://github.com/alpaddesai/NewProductDevelopmentProcesses
+Additional reference : https://github.com/alpaddesai/EngineeringProjectManagement
