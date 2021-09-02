@@ -16,7 +16,10 @@ https://github.com/alpaddesai/QualityAssurance/releases. Company confidential in
 ## Minitab Essentials
 ![image](MinitabEssentials.jpg)
 
-## Certificat of Registration 
+## Algorithms
+![image](SimulationsPerformanceMetrics.jpg)
+
+## Certificate of Registration 
 ![image](USCopyrightCertificate.png)
 
 Additional reference : https://github.com/alpaddesai/EngineeringProjectManagement
