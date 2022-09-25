@@ -19,4 +19,6 @@ https://github.com/alpaddesai/QualityAssurance/releases. Company confidential in
 ## Algorithms
 ![image](SimulationsPerformanceMetrics.jpg)
 
+![image](USCopyrightCertificate.png)
+
 Additional reference : https://github.com/alpaddesai/MSEE_EngineeringProjectManagement
