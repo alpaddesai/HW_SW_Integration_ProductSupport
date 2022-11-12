@@ -21,4 +21,6 @@ https://github.com/alpaddesai/QualityAssurance/releases. Company confidential in
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jpg)
+
 Additional reference : https://github.com/alpaddesai/MSEE_EngineeringProjectManagement
