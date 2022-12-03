@@ -23,4 +23,4 @@ https://github.com/alpaddesai/QualityAssurance/releases. Company confidential in
 
 ![image](Ethics.jpg)
 
-Additional reference : 
+Additional reference : https://github.com/alpaddesai/ObjectOrientedDesignProgramming
