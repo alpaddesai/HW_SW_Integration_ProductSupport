@@ -6,7 +6,6 @@ https://github.com/alpaddesai/QualityAssurance/releases. Company confidential in
 ![image](QualityAssurance.png)
 ## Design Verification Skills
 
-
 ## DMADV 
 ![image](DMDV.png)
 
